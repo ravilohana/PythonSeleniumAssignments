@@ -1,0 +1,5 @@
+INFO     orange_hrm_web_app.test_orange_hrm_login:test_orange_hrm_login.py:29 Browser Launched
+INFO     orange_hrm_web_app.test_orange_hrm_login:test_orange_hrm_login.py:33 Username entered
+INFO     orange_hrm_web_app.test_orange_hrm_login:test_orange_hrm_login.py:35 Password entered
+INFO     orange_hrm_web_app.test_orange_hrm_login:test_orange_hrm_login.py:37 Login button clicked
+INFO     orange_hrm_web_app.test_orange_hrm_login:test_orange_hrm_login.py:39 Assertion Successfully Done!!

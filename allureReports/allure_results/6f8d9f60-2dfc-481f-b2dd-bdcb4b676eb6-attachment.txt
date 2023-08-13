@@ -1,0 +1,6 @@
+INFO     katalon_web_app.test_katalon_login:test_katalon_login.py:28 Browser Launched
+INFO     katalon_web_app.test_katalon_login:test_katalon_login.py:32 Username entered
+INFO     katalon_web_app.test_katalon_login:test_katalon_login.py:34 Password entered
+INFO     katalon_web_app.test_katalon_login:test_katalon_login.py:36 Login Successfully Done
+INFO     katalon_web_app.test_katalon_login:test_katalon_login.py:43 All Queries for appointment Done
+INFO     katalon_web_app.test_katalon_login:test_katalon_login.py:48 Asserted heading Appointment Confirmation

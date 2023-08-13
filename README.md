@@ -25,3 +25,21 @@
 1. Python
 2. Pytest Testing Framework
 3. Reports - Allure Report, Pytest-html
+
+
+#### To run the test from the project directory commands with HTML report
+
+    ` pytest  -v -s --html="Report.html" `
+
+
+#### To run the test from the project directory commands with HTML report and allure reports
+
+    ` pytest  -v -s --html="Report.html" --alluredir=./allureReports/allure_results `
+    
+ - To generate the allure reports command
+
+   
+
+
+ `  allure serve .\allureReports\allure_results\   `
+    

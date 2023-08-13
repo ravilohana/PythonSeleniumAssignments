@@ -1,0 +1,6 @@
+Browser Launched
+Username entered
+Password entered
+Login Successfully Done
+All Queries for appointment Done
+Asserted heading Appointment Confirmation
