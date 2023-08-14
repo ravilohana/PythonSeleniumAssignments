@@ -1,0 +1,6 @@
+INFO     __name__:test_katalon_login.py:28 Browser Launched
+INFO     __name__:test_katalon_login.py:32 Username entered
+INFO     __name__:test_katalon_login.py:34 Password entered
+INFO     __name__:test_katalon_login.py:36 Login Successfully Done
+INFO     __name__:test_katalon_login.py:43 All Queries for appointment Done
+INFO     __name__:test_katalon_login.py:48 Asserted heading Appointment Confirmation

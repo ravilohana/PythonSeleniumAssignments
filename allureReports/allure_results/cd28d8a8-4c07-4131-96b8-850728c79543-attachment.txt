@@ -1,0 +1,5 @@
+INFO     __name__:test_vwo_login.py:30 Browser Launched
+INFO     __name__:test_vwo_login.py:33 Username entered
+INFO     __name__:test_vwo_login.py:35 Password entered
+INFO     __name__:test_vwo_login.py:38 Login button clicked
+INFO     __name__:test_vwo_login.py:40 Assertion Successfully Done!!

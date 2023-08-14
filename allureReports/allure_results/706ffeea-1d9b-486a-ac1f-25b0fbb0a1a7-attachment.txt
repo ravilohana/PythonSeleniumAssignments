@@ -1,1 +1,0 @@
-INFO     vwo_web_app.test_vwo_login:test_vwo_login.py:55 Assertion of error notification Successfully Done!!
