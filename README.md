@@ -38,8 +38,6 @@
     
  - To generate the allure reports command
 
-   
-
 
     ` allure serve .\allureReports\allure_results\ `
     
