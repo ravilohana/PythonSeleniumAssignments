@@ -1,0 +1,6 @@
+INFO     src.test_scripts.logging_core:test_katalon_login.py:29 Browser Launched
+INFO     src.test_scripts.logging_core:test_katalon_login.py:33 Username entered
+INFO     src.test_scripts.logging_core:test_katalon_login.py:35 Password entered
+INFO     src.test_scripts.logging_core:test_katalon_login.py:37 Login Successfully Done
+INFO     src.test_scripts.logging_core:test_katalon_login.py:44 All Queries for appointment Done
+INFO     src.test_scripts.logging_core:test_katalon_login.py:49 Asserted heading Appointment Confirmation

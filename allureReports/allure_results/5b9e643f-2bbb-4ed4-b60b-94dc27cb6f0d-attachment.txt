@@ -1,0 +1,5 @@
+Browser Launched
+Username entered
+Password entered
+Login button clicked
+Assertion Successfully Done!!

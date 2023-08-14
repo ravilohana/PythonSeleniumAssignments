@@ -34,7 +34,7 @@
 
 #### To run the test from the project directory commands with HTML report and allure reports
 
-    ` pytest  -v --capture sys --html="Report.html" --alluredir=../../allureReports/allure_results `
+    ` pytest  -v --capture sys --html="../../HTML_Report.html" --alluredir=../../allureReports/allure_results `
     
  - To generate the allure reports command
 

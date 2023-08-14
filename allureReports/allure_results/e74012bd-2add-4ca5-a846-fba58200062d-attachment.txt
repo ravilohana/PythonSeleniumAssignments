@@ -1,0 +1,5 @@
+INFO     src.test_scripts.logging_core:test_orange_hrm_login.py:30 Browser Launched
+INFO     src.test_scripts.logging_core:test_orange_hrm_login.py:34 Username entered
+INFO     src.test_scripts.logging_core:test_orange_hrm_login.py:36 Password entered
+INFO     src.test_scripts.logging_core:test_orange_hrm_login.py:38 Login button clicked
+INFO     src.test_scripts.logging_core:test_orange_hrm_login.py:40 Assertion Successfully Done!!
