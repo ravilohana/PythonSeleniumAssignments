@@ -32,5 +32,6 @@ def test_actions_dropdown(chrom_options):
     dropdown = driver.find_element(By.ID,"dropdownMenuButton1")
     actions = ActionChains(driver)
     actions.move_to_element(dropdown).click().send_keys(Keys.DOWN).send_keys(Keys.DOWN).send_keys(Keys.ENTER).perform()
+    driver.quit()
 
 
