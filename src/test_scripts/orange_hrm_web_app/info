@@ -1,0 +1,32 @@
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Admin/admin123
+
+test@me.com
+test
+
+
+https://demo.nopcommerce.com/login
+
+nop@ecom.com
+nop@12345
+
+
+https://awesomeqa.com/hr/web/index.php
+admin
+Hacker@4321
+
+steps
+	- login hrm
+	- click Add btn
+	- fill new emp
+	- save
+	- navigate emp list
+	- serach emp
+	- click on edit
+	- ither id yes
+	- save click
+
+
+oxd-autocomplete-text-input oxd-autocomplete-text-input--active
+
+(//input[@placeholder='Type for hints...'])[1]

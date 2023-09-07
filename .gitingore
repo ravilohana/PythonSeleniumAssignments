@@ -26,6 +26,8 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+src/test_scripts/orange_hrm_web_app/test_faker.py
+src/test_scripts/orange_hrm_web_app/info
 
 # Gradle
 .idea/**/gradle.xml
